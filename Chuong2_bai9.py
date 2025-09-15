@@ -10,7 +10,7 @@ d1 = 2.0
 d2 = 5.0
 d3 = -0.5
 '''
-
+'''
 #Cho biết kết quả và giải thích cách thực hiện của các lệnh sau:
 (a) i1 + (i2 * i3)= -13 
 #thay giá trị của i1,i2,i3 vào, thực hiện tính trong ngoặc trước rồi cộng i1 vào
@@ -48,3 +48,4 @@ d3 = -0.5
 #thay giá trị d1,d2,d3 vào, thực hiện trong ngoặc trước rồi cộng d1, d2vào
 (r) 3 * (d1 + d2) * (d1 - d3)=31,5
 #thay giá trị d1,d2,d3 vào, thực hiện trong ngoặc trước rồi nhân lại với nhau
+'''

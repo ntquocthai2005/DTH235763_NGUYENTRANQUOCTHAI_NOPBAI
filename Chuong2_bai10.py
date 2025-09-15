@@ -11,6 +11,7 @@ Cho các lệnh ban đầu:
 (g) number_of_closed_cases = number_of_closed_cases + 2*ncc
 Hãy viết ngắn gọn lại lệnh.
 '''
+'''
 (a) x += 1
 (b) x /= 2
 (c) x -= 1
@@ -18,3 +19,4 @@ Hãy viết ngắn gọn lại lệnh.
 (e) x -= (y + 7)
 (f) x *= 2
 (g) number_of_closed_cases += (2*ncc)
+'''
