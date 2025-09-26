@@ -1,3 +1,7 @@
+'''
+Nhập vào một ngày (ngày, tháng, năm). Tìm ngày kế sau ngày
+vừa nhập (ngày/tháng/năm).
+'''
 def la_nam_nhuan(nam):
     return (nam % 4 == 0 and nam % 100 != 0) or (nam % 400 == 0)
 
